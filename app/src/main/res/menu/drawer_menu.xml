@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+
+    <group android:checkableBehavior="single">
+
+        <item android:title="General">
+        <menu>
+        <item
+            android:id="@+id/nav_create"
+            android:icon="@drawable/ic_baseline_tv_24"
+            android:title="Promote your videos" />
+
+
+
+        <item
+            android:id="@+id/nav_share"
+            android:icon="@drawable/ic_baseline_share_24"
+            android:title="Share this App" />
+
+
+
+        </menu>
+        </item>
+    </group>
+
+
+
+    <item android:title="@string/communicate">
+        <menu>
+            <item
+                android:id="@+id/nav_message"
+                android:icon="@drawable/ic_baseline_email_24"
+                android:title="@string/message_us" />
+
+            <item
+                android:id="@+id/nav_rate"
+                android:icon="@drawable/ic_baseline_star_24"
+                android:title="@string/rate_us" />
+
+            <item
+                android:id="@+id/nav_about"
+                android:icon="@drawable/ic_baseline_info_24"
+                android:title="@string/about" />
+        </menu>
+
+    </item>
+
+</menu>

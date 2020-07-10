@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "541192460844",
+    "firebase_url": "https://phronosis-70f87.firebaseio.com",
+    "project_id": "phronosis-70f87",
+    "storage_bucket": "phronosis-70f87.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:541192460844:android:0885cab667cc6d6c4d4f89",
+        "android_client_info": {
+          "package_name": "com.example.YouTubeHugs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "541192460844-j01ecc6oe2l3hd61o1omv92jbpjrerfa.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.YouTubeHugs'",
+            "certificate_hash": "b5354f097641039cc49239607c839261c1834a93"
+          }
+        },
+        {
+          "client_id": "541192460844-dbrq1u7fgovfukal445rgp1j6q5enk98.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDq3hOj0a8Xf_ptD_vKGJ0emxHFidFOvM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "541192460844-dbrq1u7fgovfukal445rgp1j6q5enk98.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

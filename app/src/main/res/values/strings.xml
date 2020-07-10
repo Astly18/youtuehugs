@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">YouTubeHugs</string>
+    <string name="create_quiz">Create Quiz</string>
+    <string name="upload">Upload</string>
+    <string name="my_grade">My Grade</string>
+    <string name="share">Share</string>
+    <string name="communicate">Communicate</string>
+    <string name="message_us">Message Us</string>
+    <string name="rate_us">Rate Us</string>
+    <string name="about">About</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+</resources>
